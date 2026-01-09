@@ -108,3 +108,40 @@
     color: white;
     border-radius: 50px;
 }
+
+/* second brain seection */
+.brain{
+   width: 80%;
+   margin: 0 auto;
+   margin-top: 60px;
+   margin-bottom: 60px;
+}
+.brain-container{
+    display: flex;
+    gap: 60px;
+    align-items: center;
+}
+.brain-content span{
+    color: #17974c;
+     font-size: 20px;
+    font-weight: 500;
+}
+.brain-img{
+    width: 600px;
+}
+
+.brain p{
+    color: #627382;
+}
+.content-list li{
+    list-style: none;
+    padding: 3px;
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+.content-list{
+    list-style: none;
+  margin: 0;
+  padding: 0;
+}
