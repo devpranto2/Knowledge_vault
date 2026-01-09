@@ -22,6 +22,13 @@
     color: white;
     border: 2px solid #30B868;
 }
+.btn-two{
+    border: 2px solid white;
+    background-color:transparent;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
 .nav-item a{
     font-size: 16px;
     padding: 10px;
@@ -33,4 +40,12 @@
 }
 .nav-logo img{
     width: 130px;
+}
+/* banner section */
+.banner{
+    background-image: url(assets/hero-bg.png);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 100px;
 }
