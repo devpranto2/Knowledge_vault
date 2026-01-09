@@ -44,8 +44,31 @@
 /* banner section */
 .banner{
     background-image: url(assets/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     justify-content: center;
     align-items: center;
     text-align: center;
     padding: 100px;
+}
+.banner h1{
+    color: white;
+    font-size: 54px;
+}
+.banner h1 span{
+    color: #17974c;
+}
+.banner-des{
+    color: white;
+    font-size: 22px;
+}
+.banner-access{
+   
+    text-align: center;
+   background-color: white;
+   color: #17974c;
+   padding: 10px 20px;
+   border-radius: 20px;
+   font-size:18;
+   font-weight: 500;
 }
