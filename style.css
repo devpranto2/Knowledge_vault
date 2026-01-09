@@ -172,3 +172,36 @@
     color: #627382;
     font-size: 18px;
 }
+/* footer */
+.footer{
+    background-color: #001931;
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+.footer p{
+    color: white;
+    text-align: center;
+}
+.footer-container{
+    width: 80%;
+    margin: 0 auto;
+    padding:80px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.social-link{
+    color: white;
+    font-size: 22px;
+    
+
+    
+}
+.social-link a i{
+    width: 20px; 
+    padding: 5px;
+    border-radius: 50px;
+    background-color: white;
+   gap: 10px;
+
+}
